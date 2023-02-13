@@ -1,0 +1,44 @@
+#emptyAlert{
+    display: none;
+}
+
+#alreadyEmptyAlert{
+    display: none;
+}
+
+#deletedTasksAlert{
+    display: none;
+}
+
+#duplicateTasksAlert{
+    display : none;
+}
+
+#inputCloseBtn{
+    cursor: pointer;
+}
+
+.disableInput{
+    background-color: transparent;
+    border: none;
+}
+
+#updateBtn{
+    display: none;
+}
+
+#cancelBtn{
+    display: none;
+}
+
+#addBtn, #updateBtn, #dltAllBtn, #cancelBtn{
+    margin: 10px !important;
+}
+
+#checkComplete{
+   width: 0px;
+}
+
+#completeTask{
+    cursor: pointer;
+}
